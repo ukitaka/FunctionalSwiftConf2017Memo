@@ -1,1 +1,0 @@
-//: [Functional Swift Conf 2017](http://2017.funswiftconf.com/)
