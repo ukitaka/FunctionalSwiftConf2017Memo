@@ -3,5 +3,6 @@
     <pages>
         <page name='Index'/>
         <page name='A Type System From Scratch - Robert Widmann'/>
+        <page name='Beyond Types in Swift – Brandon Kase'/>
     </pages>
 </playground>
